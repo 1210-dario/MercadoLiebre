@@ -1,24 +1,10 @@
+/*Header*/
+
 .home header {
     background-color: var(--color-amarillo);
     padding-bottom: 1.7em;
 }
 
-.home main h2{
-    font-size: 24px;
-}
-
-.home main .precio{
-    font-size: 18px;
-}
-
-.home main .desc{
-    font-size: 16px;
-}
-
-.home main h3{
-    font-size: 16px;
-}
-/*Header*/
 .home .nav1 img{
     margin-top: 2.7em;
     width: 120px;
@@ -65,6 +51,24 @@
     padding-top: 8px;
     border-radius: 10%;
     margin-left: 140px;
+}
+
+/* Main */
+
+.home main h2{
+    font-size: 24px;
+}
+
+.home main .precio{
+    font-size: 18px;
+}
+
+.home main .desc{
+    font-size: 16px;
+}
+
+.home main h3{
+    font-size: 16px;
 }
 
 /* Footer*/
