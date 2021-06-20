@@ -1,5 +1,6 @@
-.home {
+.home header {
     background-color: var(--color-amarillo);
+    padding-bottom: 1.7em;
 }
 
 .home main h2{
@@ -64,7 +65,6 @@
     padding-top: 8px;
     border-radius: 10%;
     margin-left: 140px;
-    margin-bottom: 1.7em;
 }
 
 /* Footer*/
@@ -111,9 +111,11 @@
     padding-bottom: 2em;
 }
 
-.home footer h4, p{
+.home footer h4, footer p{
     color: var(--color-gris-oscuro);
 }
+
+
 
 .home footer .copyright{
     text-align: left;
