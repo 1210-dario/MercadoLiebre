@@ -1,0 +1,121 @@
+.home {
+    background-color: var(--color-amarillo);
+}
+
+.home main h2{
+    font-size: 24px;
+}
+
+.home main .precio{
+    font-size: 18px;
+}
+
+.home main .desc{
+    font-size: 16px;
+}
+
+.home main h3{
+    font-size: 16px;
+}
+/*Header*/
+.home .nav1 img{
+    margin-top: 2.7em;
+    width: 120px;
+    margin-left: 2.2em;
+    margin-bottom: 1em;
+}
+
+.home .searchBar{
+    width: 158px;
+}
+
+.home .head1{
+    margin-left: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+.home .head2{
+    margin-bottom: 1.4em;
+    color: black;
+}
+
+.home header p{
+    text-align: center;
+}
+
+.home .lista1{
+    margin-bottom: 1em;
+}
+
+.home .lista2{
+    margin-bottom: 1em;
+}
+
+.home .burguer-menu i{
+    font-size: 24px;
+}
+
+.home .burguer-menu{
+    text-align: center;
+    color: white;
+    background-color: var(--color-celeste);
+    width: 40px;
+    height: 40px;
+    padding-top: 8px;
+    border-radius: 10%;
+    margin-left: 140px;
+    margin-bottom: 1.7em;
+}
+
+/* Footer*/
+
+.home footer{
+    background-color: white;
+}
+
+.home footer div{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.home footer h4{
+    font-size: 16px;
+}
+
+.home footer p{
+    width: 240px;
+    margin-left: 40px;
+}
+
+.home footer .fa-credit-card{
+    margin-top: 60px;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.home footer .fa-gift{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.home footer .fa-user-shield{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.home .copyright h4{
+    font-size: 12px;
+}
+
+.home .copyright{
+    padding-bottom: 2em;
+}
+
+.home footer h4, p{
+    color: var(--color-gris-oscuro);
+}
+
+.home footer .copyright{
+    text-align: left;
+    margin-left: 15px;
+}
